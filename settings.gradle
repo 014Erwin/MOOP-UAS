@@ -1,0 +1,2 @@
+rootProject.name = "UAS Moop"
+include ':app'
